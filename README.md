@@ -9,23 +9,6 @@
 
 # Hi, I'm Jeeva Rani 👋
 
-👇 Social Badges
-<div align="center">
-
-<a href="https://www.linkedin.com/in/jeevarani-sethumathavan-52522639b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://www.instagram.com/jeevarani_sethumathavan/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-&nbsp;
-<a href="mailto:jeevarani2406@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</div>
-
 <div align="center">
 
 <img width="100%" src="https://streak-stats.demolab.com/?user=jeevarani2406&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
@@ -47,27 +30,25 @@
   <img alt="GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/jeevarani2406/jeevarani2406/output/github-snake.svg">
 </picture>
+
+👇 Social Badges
+
 <div align="center">
 
-  <div align="center">
-
-<a href="https://www.linkedin.com/in/jeevarani-sethumathavan-52522639b/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/jeevarani-sethumathavan-52522639b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
-&nbsp;&nbsp;
-
-<a href="jeevarani_sethumathavan">
-<img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram"/>
+&nbsp;
+<a href="https://www.instagram.com/jeevarani_sethumathavan/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-
-&nbsp;&nbsp;
-
+&nbsp;
 <a href="mailto:jeevarani2406@gmail.com">
-<img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/jeevarani2406/jeevarani2406/output/github-snake-dark.svg" />
